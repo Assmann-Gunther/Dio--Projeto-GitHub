@@ -1,0 +1,5 @@
+link para download https://git-scm.com/
+
+https://code.visualstudio.com/
+
+Git Bash é um terminal extendido para otimizar o uso do git.
